@@ -1,2 +1,3 @@
-# CS698Y-HUMAN-AI-INTERACTION
-Prof. Sruti Srinivasa Ragavan
+# CS798Y
+
+Human AI Interaction (Prof. Sruti Srinivasa Ragavan)
