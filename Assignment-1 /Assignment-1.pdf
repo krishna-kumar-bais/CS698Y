@@ -1,0 +1,14 @@
+Assignment Question and Instructions
+Pingala currently allows students to browse, register, and manage their academic courses. Your task is to design a new AI feature that recommends courses to students based on their academic history, degree requirements, interests, and performance.
+
+Your solution should:
+
+Clearly implement the HAX guidelines.
+Explain how you implement a guideline in your design.
+If a guideline does not apply, you need to argue why.
+You designs need to be complete and legible.
+Other instructions:
+
+Work in pairs.
+One submission per pair (as a single PDF) showing the mockups as well as an explanation for each guideline (how it is implemented, or why not).
+Mention both student names and roll numbers.
