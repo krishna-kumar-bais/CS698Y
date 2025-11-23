@@ -1,0 +1,19 @@
+{
+  "backend_entrypoint": "app.py",
+  "model_path": [
+    "model.pkl",
+    "trained_absenteeism_model.pkl"
+  ],
+  "preprocessor_path": null,
+  "frontend_path": "frontend/",
+  "requirements": "requirements.txt",
+  "deploy_files": [
+    "render.yaml",
+    "Dockerfile"
+  ],
+  "training_script": "saving_model.py",
+  "model_type": "LinearRegression",
+  "preprocessing_method": "StandardScaler + pandas.get_dummies",
+  "test_folder": null
+}
+

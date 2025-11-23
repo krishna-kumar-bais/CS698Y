@@ -1,0 +1,36 @@
+{
+  "evaluation_date": "2025-11-03T05:30:12.657407",
+  "model_type": "LinearRegression",
+  "n_features": 50,
+  "lime_fidelity": {
+    "mean_r2": 0.9999997083928756,
+    "std_r2": 1.8736387186396294e-08,
+    "min_r2": 0.9999996651931582,
+    "max_r2": 0.9999997480930866,
+    "n_evaluated": 50
+  },
+  "shap_stability": {
+    "mean_consistency": 1.0,
+    "std_consistency": 0.0,
+    "n_evaluated": 50
+  },
+  "fairness_gaps": {
+    "age_group": {
+      "mae_by_group": {
+        "18-30": 0.0,
+        "31-40": 0.0,
+        "41-50": 0.0,
+        "50+": 0.0
+      },
+      "mae_gap": 0.0
+    },
+    "education": {
+      "mae_by_group": {
+        "Education_1": 0.0,
+        "Education_2": 0.0,
+        "Education_3": 0.0
+      },
+      "mae_gap": 0.0
+    }
+  }
+}

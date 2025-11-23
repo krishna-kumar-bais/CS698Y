@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: absenteeism-app
+    env: docker
+    plan: free
+    autoDeploy: true
+    healthCheckPath: /api/health
+    envVars:
+      - key: CORS_ORIGINS
+        value: "*"
+      # If your model file has a different name/path, set it here
+      # - key: MODEL_PATH
+      #   value: model.pkl
