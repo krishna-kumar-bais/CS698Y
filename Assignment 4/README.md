@@ -3,11 +3,11 @@ You can check out the live version here: [https://assignment-4-o9gt.onrender.com
 
 ## Absenteeism Prediction System
 
-**Team Members:**
+### **Team Members:**
 - Krishna Kumar Bais (241110038)
 - Rohan (241110057)
 
-**Course:** CS698Y - Human-AI Interaction
+### **Course:** CS698Y - Human-AI Interaction
 
 ## Overview
 
